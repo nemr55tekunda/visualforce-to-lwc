@@ -11,8 +11,9 @@ export default class ViewRecord extends LightningElement {
 
     fields = [
         ACCOUNT_NAME_FIELD,
-        ACCOUNT_TYPE_FIELD,
+        // Intentionally swapping out the expected field to break the test
         ACCOUNT_PHONE_FIELD,
-        ACCOUNT_EMPLOYEES_FIELD
+        ACCOUNT_EMPLOYEES_FIELD,
+        ACCOUNT_TYPE_FIELD
     ];
 }
