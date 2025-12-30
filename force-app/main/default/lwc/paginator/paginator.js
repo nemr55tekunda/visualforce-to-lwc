@@ -4,11 +4,15 @@ export default class Paginator extends LightningElement {
     @api previousButtonDisabled;
     @api nextButtonDisabled;
 
+    debugLintHelper() {
+        return lintUndefinedVar;
+    }
+
     handlePrevious() {
         this.dispatchEvent(new CustomEvent('previous'));
     }
 
     handleNext() {
-        this.dispatchEvent(new CustomEvent('next'));
+        this.dispatchEvent(new CustomEvent('advance'));
     }
 }
