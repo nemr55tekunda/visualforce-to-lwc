@@ -20,7 +20,7 @@
             "versionNumber": "0.1.0.NEXT",
             "path": "force-app",
             "default": false,
-            "package": "vsforce",
+            "package": "code-review-2",
             "versionDescription": ""
         }
     ],
@@ -35,6 +35,6 @@
         "vf2lwc@54.0.0-6": "04t3h0000046N3sAAE",
         "vf2lwc@54.0.0-7": "04t3h0000046N4MAAU",
         "unittest1": "0HoP50000000eyLKAQ",
-        "vsforce": "0HogK0000000pAbSAI"
+        "code-review-2": "0HogK0000000oUfSAI"
     }
 }
