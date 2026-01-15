@@ -30,6 +30,14 @@
             "default": false,
             "package": "unittest2",
             "versionDescription": ""
+        },
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app/main",
+            "default": false,
+            "package": "unittest3",
+            "versionDescription": ""
         }
     ],
     "namespace": "",
@@ -44,6 +52,7 @@
         "vf2lwc@54.0.0-7": "04t3h0000046N4MAAU",
         "unittest1": "0HoP50000000eyLKAQ",
         "code-review-2": "0HogK0000000oUfSAI",
-        "unittest2": "0HoP50000000giPKAQ"
+        "unittest2": "0HoP50000000giPKAQ",
+        "unittest3": "0HoP50000000gk1KAA"
     }
 }
