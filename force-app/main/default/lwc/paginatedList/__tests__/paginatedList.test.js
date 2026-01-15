@@ -8,7 +8,7 @@ const COLUMNS = [
     {
         label: 'Account Name',
         fieldName: 'Name',
-        type: 'text'
+        type: 'none'
     },
     { label: 'Type', fieldName: 'Type', type: 'text' },
     {
