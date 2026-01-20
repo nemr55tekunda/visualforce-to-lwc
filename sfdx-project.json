@@ -46,6 +46,14 @@
             "default": false,
             "package": "pack-account",
             "versionDescription": ""
+        },
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app/main/default/objects/Account",
+            "default": false,
+            "package": "account-oack",
+            "versionDescription": ""
         }
     ],
     "namespace": "",
@@ -62,6 +70,7 @@
         "code-review-2": "0HogK0000000oUfSAI",
         "unittest2": "0HoP50000000giPKAQ",
         "unittest3": "0HoP50000000gk1KAA",
-        "pack-account": "0HoP50000000gwvKAA"
+        "pack-account": "0HoP50000000gwvKAA",
+        "account-oack": "0HoP50000000gyXKAQ"
     }
 }
