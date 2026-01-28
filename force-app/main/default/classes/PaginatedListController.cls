@@ -1,5 +1,5 @@
 public with sharing class PaginatedListController {
-    private static final Integer PAGE_SIZE = 5;
+    private static final Integer PAGE_SIZE = 1;
 
     public PaginatedListController(
         ApexPages.StandardSetController standardSetController
