@@ -17,8 +17,8 @@ export default class ExampleWrapper extends LightningElement {
     }
 
     get visualforceUrl() {
-        if (this.recordId)
-            return `/apex/${this.visualforce}?id=${this.recordId}`;
+        if (this.recordIdentifier)
+            return `/apex/${this.visualforce}?id=${this.recordIdentifier}`;
         return `/apex/${this.visualforce}`;
     }
 
