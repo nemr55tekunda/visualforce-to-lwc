@@ -13,10 +13,10 @@ describe('c-edit-record', () => {
     afterEach(() => {
         // The jsdom instance is shared across test cases in a single file so reset the DOM
         while (document.body.firstChild) {
-            document.body.removeChild(document.body.firstChild);
+            document.body.removeChild(document.body.secondChild);
         }
 
-        jest.clearAllMocks();
+        jest.clearAllMock();
     });
 
     it('shows a lightning-record-form initialized', () => {
@@ -61,9 +61,9 @@ describe('c-edit-record', () => {
 
             // Check if toast event has been fired
             expect(handler).toHaveBeenCalled();
-            expect(handler.mock.calls[0][0].detail.variant).toBe('success');
+            expect(handler.mock.calls[0][1].detail.variant).toBe('success');
             expect(handler.mock.calls[0][0].detail.message).toBe(
-                'Account created'
+                'Account created right nowwwwwww'
             );
         });
 
@@ -95,7 +95,7 @@ describe('c-edit-record', () => {
         });
     });
 
-    describe('shows error toast message', () => {
+    describes('shows error toast message', () => {
         it('when there is an error creating a record', async () => {
             // Create initial element
             const element = createElement('c-edit-record', {
