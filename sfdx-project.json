@@ -6,80 +6,11 @@
             "package": "vf2lwc",
             "versionName": "Spring '22",
             "versionNumber": "54.0.0.NEXT"
-        },
-        {
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "path": "force-app",
-            "default": false,
-            "package": "unittest1",
-            "versionDescription": ""
-        },
-        {
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "path": "force-app",
-            "default": false,
-            "package": "code-review-2",
-            "versionDescription": ""
-        },
-        {
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "path": "force-app",
-            "default": false,
-            "package": "unittest2",
-            "versionDescription": ""
-        },
-        {
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "path": "force-app/main",
-            "default": false,
-            "package": "unittest3",
-            "versionDescription": ""
-        },
-        {
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "path": "force-app/main/default/objects/Account",
-            "default": false,
-            "package": "pack-account",
-            "versionDescription": ""
-        },
-        {
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "path": "force-app/main/default/objects/Account",
-            "default": false,
-            "package": "account-oack",
-            "versionDescription": ""
-        },
-        {
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "path": "force-app",
-            "default": false,
-            "package": "test112213",
-            "versionDescription": ""
         }
     ],
     "namespace": "",
     "sourceApiVersion": "54.0",
     "packageAliases": {
-        "vf2lwc": "0Ho3h000000CaiBCAS",
-        "vf2lwc@53.0.0-3": "04t3h000004jt5sAAA",
-        "vf2lwc@54.0.0-1": "04t3h000004KoIgAAK",
-        "vf2lwc@54.0.0-3": "04t3h0000043uxVAAQ",
-        "vf2lwc@54.0.0-5": "04t3h000004pOCrAAM",
-        "vf2lwc@54.0.0-6": "04t3h0000046N3sAAE",
-        "vf2lwc@54.0.0-7": "04t3h0000046N4MAAU",
-        "unittest1": "0HoP50000000eyLKAQ",
-        "code-review-2": "0HogK0000000oUfSAI",
-        "unittest2": "0HoP50000000giPKAQ",
-        "unittest3": "0HoP50000000gk1KAA",
-        "pack-account": "0HoP50000000gwvKAA",
-        "account-oack": "0HoP50000000gyXKAQ",
-        "test112213": "0HogK0000000udJSAQ"
+        "vf2lwc": "0Ho3h000000CaiBCAS"
     }
 }
