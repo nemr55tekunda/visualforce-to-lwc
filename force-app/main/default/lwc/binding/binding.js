@@ -7,3 +7,4 @@ export default class Binding extends LightningElement {
         this.courseName = event.target.value;
     }
 }
+    
