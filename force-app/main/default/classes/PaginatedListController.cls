@@ -8,4 +8,3 @@ public with sharing class PaginatedListController {
         standardSetController.setPageSize(PAGE_SIZE);
     }
 }
-   
