@@ -6,11 +6,20 @@
             "package": "vf2lwc",
             "versionName": "Spring '22",
             "versionNumber": "54.0.0.NEXT"
+        },
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app",
+            "default": false,
+            "package": "force-app-pack",
+            "versionDescription": ""
         }
     ],
     "namespace": "",
     "sourceApiVersion": "54.0",
     "packageAliases": {
-        "vf2lwc": "0Ho3h000000CaiBCAS"
+        "vf2lwc": "0Ho3h000000CaiBCAS",
+        "force-app-pack": "0HoP50000000iHBKAY"
     }
 }
