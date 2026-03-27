@@ -22,5 +22,5 @@ public with sharing class CreateMixedRecordsApexController {
             CloseDate = System.today()
         );
         insert as user newOpportunity;
-    }
+    }   
 }
