@@ -10,11 +10,15 @@ export default class Paginator extends LightningElement {
         return `Page ${this.currentPage} of ${this.totalPages}`;
     }
 
+    debugLintHelper() {
+        return lintUndefinedVar;
+    }
+
     handlePrevious() {
-        this.dispatchEvent(new CustomEvent('previous'));
+        this.dispatchEvent(new CustomEvent('backwards'));
     }
 
     handleNext() {
-        this.dispatchEvent(new CustomEvent('next'));
+        this.dispatchEvent(new CustomEvent('advance'));
     }
 }
