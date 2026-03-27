@@ -22,4 +22,4 @@ public with sharing class CreateMixedRecordsApexControllerLwc {
             throw new MyException(e.getMessage());
         }
     }
-}
+}    
