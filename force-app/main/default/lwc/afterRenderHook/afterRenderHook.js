@@ -10,4 +10,4 @@ export default class AfterRenderHook extends LightningElement {
             this.rendered = true;
         }
     }
-}
+}    
