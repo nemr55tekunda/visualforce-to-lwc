@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+	</style>
+	<style type="text/css">
+	</style>
+	<style type="text/css">
+	</style>
+</head>
+<body style="height: auto; min-height: auto;">
+<p>Dear&nbsp;{{{Recipient.Name}}},</p>
+
+<p>Hope you’re doing well! We noticed you’ve started exploring Serpent, and we just wanted to check in.</p>
+
+<p>If you haven’t had the chance to dive into all the features yet, no worries. We’re here to help you get the most value from the platform. Whether you need tips, a walkthrough, or help with a specific use case, our team is happy to assist.</p>
+
+<p>Want a personalised onboarding session? You can book a time that suits you <a href="https://outlook.office365.com/book/serpentmeetings@tekunda.com/">using this link</a></p>
+
+<p>Your feedback is incredibly important to us, so if you have any questions, thoughts, or suggestions, just hit reply, we’d love to hear from you.</p>
+
+<p>Looking forward to supporting your journey with Serpent!</p>
+
+<p>Best Regards,<br />
+Serpent Team<strong>&nbsp;|</strong>&nbsp;Tekunda<br />
+<br />
+<img alt="serpent-logo" src="https://tekunda.file.force.com/file-asset-public/serpentlogo?oid=00D7Q000000KcS3" style="max-width: 1427.85px; width: 257px; height: 46px;" title="serpent-logo" /></p>
+</body>
+</html>
