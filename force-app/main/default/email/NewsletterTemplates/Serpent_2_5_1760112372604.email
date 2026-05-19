@@ -1,0 +1,260 @@
+<html>
+<head>
+</head>
+<body style="height: auto; min-height: auto;">&nbsp;<br />
+<br />
+<title>Serpent 2.5</title>
+<table bgcolor="rgb(255, 255, 255)" border="0" cellpadding="0" cellspacing="0" style="box-sizing: border-box; border-width: 0px; border-style: solid; text-indent: 0px; border-color: inherit; border-collapse: collapse; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;" width="100%">
+	<tbody style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+		<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+			<td align="center" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+			<table bgcolor="rgb(255, 255, 255)" border="0" cellpadding="0" cellspacing="0" style="box-sizing: border-box; border-width: 0px; border-style: solid; text-indent: 0px; border-color: inherit; border-collapse: collapse; background-color: rgb(255, 255, 255); max-width: 100%; width: 100%; margin: 0px auto;" width="100%">
+				<tbody style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+					<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+						<td style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+						<div class="max-w-4xl mx-auto text-center" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-left: auto; margin-right: auto; max-width: 56rem; text-align: center;"><span class="inline-block mb-6 rounded-full bg-white/20 border border-white/30 px-4 py-1 text-sm font-semibold tracking-widest text-white" style="box-sizing: border-box; border-style: solid; margin-bottom: 1.5rem; display: inline-block; border-radius: 9999px; border-width: 1px; border-color: rgba(255, 255, 255, 0.3); background-color: rgba(255, 255, 255, 0.2); padding-left: 1rem; padding-right: 1rem; padding-top: 0.25rem; padding-bottom: 0.25rem; font-size: 0.875rem; line-height: 1.25rem; font-weight: 600; letter-spacing: 0.1em; color: rgb(255 255 255 / 1);">Major Update</span>
+						<h1 class="mx-auto font-extrabold leading-tight" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-left: auto; margin-right: auto; font-weight: 800; font-size: clamp(2.25rem, 5vw, 3.75rem); line-height: 1.1; max-width: 48rem;">Serpent 2.5</h1>
+
+						<p class="mx-auto mt-3 mb-8 max-w-lg text-lg opacity-90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-left: auto; margin-right: auto; margin-bottom: 2rem; margin-top: 0.75rem; max-width: 32rem; opacity: 0.9; font-size: clamp(1.25rem, 3vw, 1.5rem); line-height: 1.6;">We rewrote the rules (and a bunch of code)</p>
+
+						<div class="text-sm tracking-wide opacity-70" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); font-size: 0.875rem; line-height: 1.25rem; letter-spacing: 0.025em; opacity: 0.7;">Released: August 2025 • Version 2.3.0</div>
+						</div>
+
+						<div class="max-w-5xl mx-auto" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-left: auto; margin-right: auto; max-width: 64rem;">
+						<div class="text-center mb-10 max-w-4xl mx-auto" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-left: auto; margin-right: auto; margin-bottom: 2.5rem; max-width: 56rem; text-align: center;">
+						<p class="text-lg mb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; font-size: 1.125rem; line-height: 1.75rem;">We've just shipped the biggest update to Serpent ever, and it's a game-changer.</p>
+
+						<p class="text-lg mb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; font-size: 1.125rem; line-height: 1.75rem;">Seriously. We tore it down. Rebuilt it. Sanded the edges. Polished the snake.</p>
+
+						<p class="text-lg mb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; font-size: 1.125rem; line-height: 1.75rem;">Now it's faster, smarter, and smoother, like DevOps butter 🧈 on your Salesforce toast.</p>
+
+						<p class="text-xl mb-8 font-semibold" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 2rem; font-size: 1.25rem; line-height: 1.75rem; font-weight: 600;">Let's dive in 🏊&zwj;♂️</p>
+						</div>
+
+						<div class="mb-6" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 1.5rem;">
+						<div style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-wrap: wrap; align-items: stretch;">
+						<div style="border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); flex: 1 1 50%; max-width: 100%; min-width: 320px; display: flex; flex-direction: column; padding: 0.75rem; box-sizing: border-box;">
+						<div class="mb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 1rem; display: flex; align-items: center; height: 32px;">
+						<h2 class="text-h3 font-bold" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 24px; font-style: normal; font-weight: 500; line-height: 32px; margin-bottom: 0px;">Where We'll Be</h2>
+						</div>
+
+						<div class="rounded-lg border bg-card text-card-foreground transition-all duration-200 ease-in-out shadow-sm bg-gradient-to-br from-purple-50 to-pink-50 border-purple-200" style="box-sizing: border-box; border-style: solid; border-radius: 0.5rem; border-width: 1px; border-color: rgb(233 213 255 / 1); background-color: #ffffff; background-image: linear-gradient(to bottom right, ); color: hsl(222.2 84% 4.9%); box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000; transition-property: all; transition-duration: 200ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); animation-duration: 200ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; width: 100%; flex: 1 1 auto;">
+						<div class="flex flex-col space-y-1.5 p-6 pb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-direction: column; padding: 1.5rem; padding-bottom: 1rem;">
+						<div class="flex items-start justify-between mb-2" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 0.5rem; display: flex; align-items: flex-start; justify-content: space-between; column-gap: 1rem;">
+						<h3 class="text-2xl font-semibold leading-none tracking-tight text-secondary-foreground" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 1.5rem; font-weight: 600; line-height: 1; letter-spacing: -0.025em; color: hsl(240 25% 25%);">Dreamforce 2025</h3>
+						<span class="text-sm px-3 py-1 rounded-full bg-primary/10 text-primary" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); border-radius: 9999px; background-color: hsl(181 69% 36% / 0.1); padding-left: 0.75rem; padding-right: 0.75rem; padding-top: 0.25rem; padding-bottom: 0.25rem; font-size: 0.875rem; line-height: 1.25rem; color: hsl(181 69% 36%); flex-shrink: 0;">Event</span></div>
+						</div>
+
+						<div class="p-6 pt-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); padding: 1.5rem; padding-top: 0px; flex: 1 1 auto;">
+						<p class="mb-4 text-secondary-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; color: hsl(240 25% 25% / 0.9);">Join us at Dreamforce in San Francisco!</p>
+
+						<ul class="space-y-2 list-disc list-inside text-secondary-foreground/80" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); list-style: none; margin: 0px; padding: 0px; list-style-position: inside; list-style-type: disc; color: hsl(240 25% 25% / 0.8);">
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">Booth #451 - Live demos of Serpent 2.3</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Session: 'DevOps for Salesforce Made Simple'</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Meet the team and grab some swag 🎁</li>
+						</ul>
+						</div>
+						</div>
+						</div>
+
+						<div style="border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); flex: 1 1 50%; max-width: 100%; min-width: 320px; display: flex; flex-direction: column; padding: 0.75rem; box-sizing: border-box;">
+						<div class="mb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 1rem; display: flex; align-items: center; height: 32px;">
+						<h2 class="text-h3 font-bold" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 24px; font-style: normal; font-weight: 500; line-height: 32px; margin-bottom: 0px;">Salesforce Updates &amp; News</h2>
+						</div>
+
+						<div class="rounded-lg border bg-card text-card-foreground transition-all duration-200 ease-in-out shadow-sm bg-gradient-to-br from-blue-50 to-cyan-50 border-blue-200" style="box-sizing: border-box; border-style: solid; border-radius: 0.5rem; border-width: 1px; border-color: rgb(191 219 254 / 1); background-color: #ffffff; background-image: linear-gradient(to bottom right, ); color: hsl(222.2 84% 4.9%); box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000; transition-property: all; transition-duration: 200ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); animation-duration: 200ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; width: 100%; flex: 1 1 auto;">
+						<div class="flex flex-col space-y-1.5 p-6 pb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-direction: column; padding: 1.5rem; padding-bottom: 1rem;">
+						<div class="flex items-start justify-between mb-2" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 0.5rem; display: flex; align-items: flex-start; justify-content: space-between; column-gap: 1rem;">
+						<h3 class="text-2xl font-semibold leading-none tracking-tight text-secondary-foreground" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 1.5rem; font-weight: 600; line-height: 1; letter-spacing: -0.025em; color: hsl(240 25% 25%);">Winter '26 Release Highlights</h3>
+						<span class="text-sm px-3 py-1 rounded-full bg-primary/10 text-primary" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); border-radius: 9999px; background-color: hsl(181 69% 36% / 0.1); padding-left: 0.75rem; padding-right: 0.75rem; padding-top: 0.25rem; padding-bottom: 0.25rem; font-size: 0.875rem; line-height: 1.25rem; color: hsl(181 69% 36%); flex-shrink: 0;">Salesforce</span></div>
+						</div>
+
+						<div class="p-6 pt-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); padding: 1.5rem; padding-top: 0px; flex: 1 1 auto;">
+						<p class="mb-4 text-secondary-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; color: hsl(240 25% 25% / 0.9);">Key updates from Salesforce's latest release</p>
+
+						<ul class="space-y-2 list-disc list-inside text-secondary-foreground/80" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); list-style: none; margin: 0px; padding: 0px; list-style-position: inside; list-style-type: disc; color: hsl(240 25% 25% / 0.8);">
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">Einstein AI improvements for automated workflows</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Enhanced Data Cloud integration</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">New governance tools for admins</li>
+						</ul>
+						</div>
+						</div>
+						</div>
+						</div>
+						</div>
+
+						<div class="mb-6" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 1.5rem;">
+						<div class="mb-6 mt-6 m-3" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0.75rem; margin-bottom: 1.5rem; margin-top: 1.5rem;">
+						<h2 class="text-h2 fnt-bold" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 28px; font-style: normal; font-weight: 600; line-height: 36px; margin-bottom: 0px;">What's New in Serpent 2.3</h2>
+						</div>
+
+						<div style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+						<div class="rounded-lg border m-3 mb-6 h-full bg-gradient-feature text-newsletter-feature-foreground border-newsletter-feature transition-all duration-200 ease-in-out shadow-sm" style="box-sizing: border-box; border-style: solid; margin: 0.75rem; margin-bottom: 1.5rem; border-radius: 0.5rem; border-width: 1px; border-color: hsl(181 69% 36%); background-image: linear-gradient(135deg, hsl(181 69% 36%), hsl(181 69% 28%)); color: hsl(0 0% 97%); box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000; transition-property: all; transition-duration: 200ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); animation-duration: 200ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; height: 100%;">
+						<div class="flex flex-col space-y-1.5 p-6 pb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-direction: column; padding: 1.5rem; padding-bottom: 1rem;">
+						<div class="flex items-center justify-between mb-2" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 0.5rem; display: flex; align-items: center; justify-content: space-between;">
+						<div class="flex items-center gap-3" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; align-items: center; gap: 0.75rem;">
+						<h3 class="text-2xl font-semibold leading-none tracking-tight text-newsletter-feature-foreground" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 1.5rem; font-weight: 600; line-height: 1; letter-spacing: -0.025em; color: hsl(0 0% 97%);">Onboarding That Gets You</h3>
+						</div>
+						<span class="text-sm px-3 py-1 rounded-full bg-white/20 text-newsletter-feature-foreground" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); border-radius: 9999px; background-color: rgba(255, 255, 255, 0.2); padding-left: 0.75rem; padding-right: 0.75rem; padding-top: 0.25rem; padding-bottom: 0.25rem; font-size: 0.875rem; line-height: 1.25rem; color: hsl(0 0% 97%);">New</span></div>
+						</div>
+
+						<div class="p-6 pt-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); padding: 1.5rem; padding-top: 0px; flex-grow: 1;">
+						<p class="mb-4 text-newsletter-feature-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; color: hsl(0 0% 97% / 0.9);">"5-minute setup" isn't just marketing fluff</p>
+
+						<ul class="space-y-2 list-disc list-inside text-newsletter-feature-foreground/80" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); list-style: none; margin: 0px; padding: 0px; list-style-position: inside; list-style-type: disc; color: hsl(0 0% 97% / 0.8);">
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">Works with scratch orgs, packaging, or something in between</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">You'll be up and running before your coffee cools down</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">DevOps sherpa guidance included</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">No setup-induced migraines</li>
+						</ul>
+						</div>
+						</div>
+
+						<div style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-wrap: wrap; align-items: stretch;">
+						<div style="border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); flex: 1 1 50%; min-width: 260px; max-width: 100%; display: flex; padding: 0.75rem; box-sizing: border-box;">
+						<div class="rounded-lg border text-card-foreground bg-newsletter-white transition-all duration-200 ease-in-out shadow-sm border-border dark:border-border/10" style="box-sizing: border-box; border-style: solid; border-radius: 0.5rem; border-width: 1px; border-color: hsl(220 14% 90%); background-color: #ffffff; color: hsl(222.2 84% 4.9%); box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000; transition-property: all; transition-duration: 200ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); animation-duration: 200ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; width: 100%; height: 100%;">
+						<div class="flex flex-col space-y-1.5 p-6 pb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-direction: column; padding: 1.5rem; padding-bottom: 1rem;">
+						<div class="flex items-start justify-between mb-2" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 0.5rem; display: flex; align-items: flex-start; justify-content: space-between;">
+						<div class="flex items-center gap-3" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; align-items: center; gap: 0.75rem;">
+						<h3 class="text-2xl font-semibold leading-none tracking-tight text-newsletter-white-foreground" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 1.5rem; font-weight: 600; line-height: 1; letter-spacing: -0.025em; color: hsl(222.2 84% 4.9%);">A Cleaner, Meaner UI</h3>
+						</div>
+						<span class="text-sm px-3 py-1 rounded-full bg-primary/10 text-primary" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); border-radius: 9999px; background-color: hsl(181 69% 36% / 0.1); padding-left: 0.75rem; padding-right: 0.75rem; padding-top: 0.25rem; padding-bottom: 0.25rem; font-size: 0.875rem; line-height: 1.25rem; color: hsl(181 69% 36%);">Design</span></div>
+						</div>
+
+						<div class="p-6 pt-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); padding: 1.5rem; padding-top: 0px; flex: 1 1 auto;">
+						<p class="mb-4 text-secondary-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; color: hsl(240 25% 25% / 0.9);">We removed the BS. You're welcome.</p>
+
+						<ul class="space-y-2 list-disc list-inside text-secondary-foreground/80" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); list-style: none; margin: 0px; padding: 0px; list-style-position: inside; list-style-type: disc; color: hsl(240 25% 25% / 0.8);">
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">No more 6 tabs doing the same thing</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">No mystery buttons with scary consequences</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Clean stages, clear steps</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">A UI that actually helps you ship</li>
+						</ul>
+						</div>
+						</div>
+						</div>
+
+						<div style="border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); flex: 1 1 50%; min-width: 260px; max-width: 100%; display: flex; padding: 0.75rem; box-sizing: border-box;">
+						<div class="rounded-lg border text-card-foreground bg-newsletter-white transition-all duration-200 ease-in-out shadow-sm border-border dark:border-border/10" style="box-sizing: border-box; border-style: solid; border-radius: 0.5rem; border-width: 1px; border-color: hsl(220 14% 90%); background-color: #ffffff; color: hsl(222.2 84% 4.9%); box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000; transition-property: all; transition-duration: 200ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); animation-duration: 200ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; width: 100%; height: 100%;">
+						<div class="flex flex-col space-y-1.5 p-6 pb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-direction: column; padding: 1.5rem; padding-bottom: 1rem;">
+						<div class="flex items-start justify-between mb-2" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 0.5rem; display: flex; align-items: flex-start; justify-content: space-between;">
+						<div class="flex items-center gap-3" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; align-items: center; gap: 0.75rem;">
+						<h3 class="text-2xl font-semibold leading-none tracking-tight text-newsletter-white-foreground" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 1.5rem; font-weight: 600; line-height: 1; letter-spacing: -0.025em; color: hsl(222.2 84% 4.9%);">No Git Setup Needed</h3>
+						</div>
+						</div>
+						</div>
+
+						<div class="p-6 pt-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); padding: 1.5rem; padding-top: 0px; flex: 1 1 auto;">
+						<p class="mb-4 text-secondary-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; color: hsl(240 25% 25% / 0.9);">Take that, terminal window.</p>
+
+						<ul class="space-y-2 list-disc list-inside text-secondary-foreground/80" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); list-style: none; margin: 0px; padding: 0px; list-style-position: inside; list-style-type: disc; color: hsl(240 25% 25% / 0.8);">
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">No more wrestling with branches or commit commands</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">You still get the power of Git</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">No praying to the .gitignore gods</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Deploy, rollback, track, no black belt required</li>
+						</ul>
+						</div>
+						</div>
+						</div>
+
+						<div style="border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); flex: 1 1 50%; min-width: 260px; max-width: 100%; display: flex; padding: 0.75rem; box-sizing: border-box;">
+						<div class="rounded-lg border text-card-foreground bg-newsletter-white transition-all duration-200 ease-in-out shadow-sm border-border dark:border-border/10" style="box-sizing: border-box; border-style: solid; border-radius: 0.5rem; border-width: 1px; border-color: hsl(220 14% 90%); background-color: #ffffff; color: hsl(222.2 84% 4.9%); box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000; transition-property: all; transition-duration: 200ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); animation-duration: 200ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; width: 100%; height: 100%;">
+						<div class="flex flex-col space-y-1.5 p-6 pb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-direction: column; padding: 1.5rem; padding-bottom: 1rem;">
+						<div class="flex items-start justify-between mb-2" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 0.5rem; display: flex; align-items: flex-start; justify-content: space-between;">
+						<div class="flex items-center gap-3" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; align-items: center; gap: 0.75rem;">
+						<h3 class="text-2xl font-semibold leading-none tracking-tight text-newsletter-white-foreground" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 1.5rem; font-weight: 600; line-height: 1; letter-spacing: -0.025em; color: hsl(222.2 84% 4.9%);">Team-Ready (For Real This Time)</h3>
+						</div>
+						</div>
+						</div>
+
+						<div class="p-6 pt-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); padding: 1.5rem; padding-top: 0px; flex: 1 1 auto;">
+						<p class="mb-4 text-secondary-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; color: hsl(240 25% 25% / 0.9);">Add your devs, your testers, your PM, your cat. It's fine.</p>
+
+						<ul class="space-y-2 list-disc list-inside text-secondary-foreground/80" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); list-style: none; margin: 0px; padding: 0px; list-style-position: inside; list-style-type: disc; color: hsl(240 25% 25% / 0.8);">
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">Everyone can stay in the loop</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Share orgs, track progress, assign tasks</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">No more Slack threads called "Where's the latest sandbox?"</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Built for real team collaboration</li>
+						</ul>
+						</div>
+						</div>
+						</div>
+
+						<div style="border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); flex: 1 1 50%; min-width: 260px; max-width: 100%; display: flex; padding: 0.75rem; box-sizing: border-box;">
+						<div class="rounded-lg border text-card-foreground bg-newsletter-white transition-all duration-200 ease-in-out shadow-sm border-border dark:border-border/10" style="box-sizing: border-box; border-style: solid; border-radius: 0.5rem; border-width: 1px; border-color: hsl(220 14% 90%); background-color: #ffffff; color: hsl(222.2 84% 4.9%); box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000; transition-property: all; transition-duration: 200ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); animation-duration: 200ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; width: 100%; height: 100%;">
+						<div class="flex flex-col space-y-1.5 p-6 pb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; flex-direction: column; padding: 1.5rem; padding-bottom: 1rem;">
+						<div class="flex items-start justify-between mb-2" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 0.5rem; display: flex; align-items: flex-start; justify-content: space-between;">
+						<div class="flex items-center gap-3" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); display: flex; align-items: center; gap: 0.75rem;">
+						<h3 class="text-2xl font-semibold leading-none tracking-tight text-newsletter-white-foreground" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 1.5rem; font-weight: 600; line-height: 1; letter-spacing: -0.025em; color: hsl(222.2 84% 4.9%);">Supports Org Dev, 1GP, 2GP</h3>
+						</div>
+						<span class="text-sm px-3 py-1 rounded-full bg-primary/10 text-primary" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); border-radius: 9999px; background-color: hsl(181 69% 36% / 0.1); padding-left: 0.75rem; padding-right: 0.75rem; padding-top: 0.25rem; padding-bottom: 0.25rem; font-size: 0.875rem; line-height: 1.25rem; color: hsl(181 69% 36%);">Universal</span></div>
+						</div>
+
+						<div class="p-6 pt-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); padding: 1.5rem; padding-top: 0px; flex: 1 1 auto;">
+						<p class="mb-4 text-secondary-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; color: hsl(240 25% 25% / 0.9);">Because you shouldn't have to pick a side.</p>
+
+						<ul class="space-y-2 list-disc list-inside text-secondary-foreground/80" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); list-style: none; margin: 0px; padding: 0px; list-style-position: inside; list-style-type: disc; color: hsl(240 25% 25% / 0.8);">
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">Use any model, all in one workspace</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Works with packages or direct to prod deployment</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">No config sorcery required</li>
+							<li style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: calc(0.5rem * calc(1 - )); margin-bottom: calc(0.5rem * );">Just pick what fits, and go</li>
+						</ul>
+						</div>
+						</div>
+						</div>
+						</div>
+						</div>
+						</div>
+
+						<div class="m-3  bg-gradient-hero rounded-lg p-8 text-center text-newsletter-hero-foreground" id="tldr-section" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0.75rem; border-radius: 0.5rem; background-image: linear-gradient(135deg, hsl(181 69% 36%), hsl(181 69% 44%)); padding: 2rem; text-align: center; color: hsl(0 0% 100%);">
+						<h3 class="text-2xl font-bold mb-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1rem; font-size: 1.5rem; line-height: 2rem; font-weight: 700;">TL;DR?</h3>
+
+						<p class="text-lg mb-3 text-newsletter-hero-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 0.75rem; font-size: 1.125rem; line-height: 1.75rem; color: hsl(0 0% 100% / 0.9);">If you signed up, poked around, and thought: "Cool idea, not quite there yet"</p>
+
+						<p class="text-xl font-semibold mb-3" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 0.75rem; font-size: 1.25rem; line-height: 1.75rem; font-weight: 600;">Now is the time to come back.</p>
+
+						<p class="text-lg mb-3 text-newsletter-hero-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 0.75rem; font-size: 1.125rem; line-height: 1.75rem; color: hsl(0 0% 100% / 0.9);">We built this update for you. For teams stuck between change sets and CLI wizardry.</p>
+
+						<p class="text-lg mb-3 text-newsletter-hero-foreground/90" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 0.75rem; font-size: 1.125rem; line-height: 1.75rem; color: hsl(0 0% 100% / 0.9);">For every Salesforce dev who's ever yelled, "WHY did it fail this time?!"</p>
+
+						<div class="flex flex-col sm:flex-row gap-4 justify-center mb-6" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-bottom: 1.5rem; display: flex; flex-direction: column; justify-content: center; gap: 1rem;"><a class="inline-flex items-center justify-center whitespace-nowrap rounded-md font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-11 px-8 bg-white text-primary hover:bg-white/90" href="https://serpent.tekunda.com" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); text-decoration: inherit; display: inline-flex; height: 2.75rem; align-items: center; justify-content: center; white-space: nowrap; border-radius: calc(0.5rem - 2px); background-color: rgb(255 255 255 / 1); padding-left: 2rem; padding-right: 2rem; font-weight: 500; color: hsl(181 69% 36%); transition-property: color, background-color, border-color, text-decoration-color, fill, stroke; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duration: 150ms;">🎁 Check out what's new<span aria-hidden="true" class="ml-2" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-left: 0.5rem;">→</span></a></div>
+
+						<p class="text-xl font-bold text-newsletter-hero-foreground justify-self-center bg-white/10 rounded-lg px-4 py-3 border border-white/20" style="box-sizing: border-box; border-style: solid; margin: 0px; justify-self: center; border-radius: 0.5rem; border-width: 1px; border-color: rgba(255, 255, 255, 0.2); background-color: rgba(255, 255, 255, 0.1); padding-left: 1rem; padding-right: 1rem; padding-top: 0.75rem; padding-bottom: 0.75rem; font-size: 1.25rem; line-height: 1.75rem; font-weight: 700; color: hsl(0 0% 100%);">✨ Let's make your next Salesforce releases actually feel good.</p>
+						</div>
+						</div>
+
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="border-t border-border text-foreground p-12 text-center font-sans text-sm leading-6" style="box-sizing: border-box; border-width: 0px; border-style: solid; text-indent: 0px; border-collapse: collapse; border-top-width: 1px; border-color: hsl(220 14% 90%); padding: 3rem; text-align: center; font-family: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 0.875rem; line-height: 1.5rem; color: hsl(222.2 84% 4.9%);" width="100%">
+							<tbody style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+								<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+									<td style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+									<h4 class="font-semibold text-base my-4" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-top: 1rem; margin-bottom: 1rem; font-size: 1rem; line-height: 1.5rem; font-weight: 600;">Need Help?</h4>
+
+									<p class="mb-6" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; margin-bottom: 1.5rem;">Our support team is ready to help you with the migration and new features.</p>
+
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="mb-8" style="box-sizing: border-box; border-width: 0px; border-style: solid; text-indent: 0px; border-color: inherit; border-collapse: collapse; margin-bottom: 2rem;">
+										<tbody style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+											<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);">
+												<td style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);"><a class="bg-primary text-primary-foreground px-3 py-2 rounded-md font-medium text-sm no-underline mx-2 inline-block" href="https://tekunda.com/serpent#contact" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); text-decoration: inherit; margin-left: 0.5rem; margin-right: 0.5rem; display: inline-block; border-radius: calc(0.5rem - 2px); background-color: hsl(181 69% 36%); padding-left: 0.75rem; padding-right: 0.75rem; padding-top: 0.5rem; padding-bottom: 0.5rem; font-size: 0.875rem; line-height: 1.25rem; font-weight: 500; color: hsl(0 0% 100%); text-decoration-line: none;">Contact Sales</a></td>
+												<td style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%);"><a class="bg-background text-foreground border border-border px-3 py-2 rounded-md font-medium text-sm no-underline mx-2 inline-block" href="https://outlook.office.com/book/serpentmeetings@tekunda.com/s/Xfeez_mvmEqNzYIC4kAOIQ2?ismsaljsauthenabled=true" style="box-sizing: border-box; border-style: solid; text-decoration: inherit; margin-left: 0.5rem; margin-right: 0.5rem; display: inline-block; border-radius: calc(0.5rem - 2px); border-width: 1px; border-color: hsl(220 14% 90%); background-color: #ffffff; padding-left: 0.75rem; padding-right: 0.75rem; padding-top: 0.5rem; padding-bottom: 0.5rem; font-size: 0.875rem; line-height: 1.25rem; font-weight: 500; color: hsl(222.2 84% 4.9%); text-decoration-line: none;">Schedule Demo</a></td>
+											</tr>
+										
+									</table>
+
+									<div class="h-[1px] bg-border my-8" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin-top: 2rem; margin-bottom: 2rem; height: 1px; background-color: hsl(220 14% 90%);">&nbsp;</div>
+
+									<p class="text-sm text-muted-foreground m-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 0.875rem; line-height: 1.25rem; color: hsl(215.4 16.3% 46.9%);">Serpent Team • Release Newsletter • October 2025</p>
+
+									<p class="text-sm text-muted-foreground m-0" style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(220 14% 90%); margin: 0px; font-size: 0.875rem; line-height: 1.25rem; color: hsl(215.4 16.3% 46.9%);">You're receiving this because you registered to Serpent.</p>
+									</td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+				
+			</table>
+			</td>
+		</tr>
+	
+</table></body>
+</html>

@@ -1,0 +1,23 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body style="height: auto; min-height: auto;">
+<p>Dear&nbsp;{{{Recipient.Name}}}</p>
+
+<p>Thank you for registering with Serpent, welcome onboard!<br />
+<br />
+To make it easy to get started, we’ve already prepared a demo workspace for you. It is fully simulated, so there’s no need to connect any of your own orgs yet.</p>
+
+<p>You will find an onboarding wizard that lets you explore the platform with preconfigured environments. You can review simulated sandboxes and production orgs, create scratch orgs, test deployments, migrate data, retrieve metadata, and explore automation flows. Everything is already set up so you can focus on understanding how the workflow works.<br />
+<br />
+If you’d like to walk through it together and see how this would apply to your own setup, you can book a short onboarding session with us here:&nbsp;<a aria-label="Link Book a Demo" href="https://outlook.office.com/book/serpentmeetings@tekunda.com/s/Xfeez_mvmEqNzYIC4kAOIQ2?ismsaljsauthenabled=true" id="menur41u" rel="noreferrer noopener" title="https://outlook.office.com/book/serpentmeetings@tekunda.com/s/xfeez_mvmeqnzyic4kaoiq2?ismsaljsauthenabled=true">Book a Demo</a></p>
+
+<p>I’ll check-in again with you in a few days to see how it’s going.</p>
+
+<p>Best regards,<br />
+Serpent Team<strong>&nbsp;|</strong>&nbsp;Tekunda<br />
+<br />
+<img alt="serpent-logo" src="https://tekunda.file.force.com/file-asset-public/serpentlogo?oid=00D7Q000000KcS3" style="max-width: 1427.85px; width: 179px; height: 32px;" title="serpent-logo" /></p>
+</body>
+</html>
