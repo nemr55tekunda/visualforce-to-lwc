@@ -1,0 +1,19 @@
+<html>
+<head><meta charset="utf-8" />
+	<title></title>
+</head>
+<body style="height: auto; min-height: auto;">
+<p>Hello {{{Recipient.Name}}},</p>
+
+<p>Thank you for your request—<strong>our team is reviewing your needs</strong> for a tailored Serpent plan to optimise your Salesforce DevOps workflow.</p>
+
+<p>Next up: You will receive an email within 48 hours with a link to schedule a brief call where we can discuss how Serpent can streamline your processes and speed up deployments.</p>
+
+<p>We are here to make your DevOps life easier. We are excited to have you with us.</p>
+
+<p>Best regards,<br />
+Serpent Team <strong>|</strong> Tekunda</p>
+
+<p><img alt="serpent-logo" height="32" src="https://tekunda.file.force.com/file-asset-public/serpentlogo?oid=00D7Q000000KcS3" width="179" /></p>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body style="height: auto; min-height: auto;">
+<p>Dear&nbsp;{{{Recipient.Name}}}</p>
+
+<p>We’ve recently released a range of new features across Serpent, with more on the way.<br />
+<br />
+Unlock a new level of speed and control with our latest features:</p>
+
+<ul>
+	<li>Serpent AI assistant for faster deployment, retrieval, and code review</li>
+	<li>Simplified re-deployments</li>
+	<li>Advanced Git-based automations</li>
+	<li>Improved rollback capabilities</li>
+</ul>
+
+<p>For a limited time, we’re offering a 30% discount for the next 5 activated workspaces that complete registration before the end of March 2026, along with full Serpent AI pilot access free for 6 months.</p>
+
+<p>Apply code SERPENT30_AIPILOT during workspace activation to secure this offer.<br />
+<br />
+If you’re considering improving your current setup, this is a good moment to get started.<br />
+<br />
+We look forward to working with you and supporting your DevOps process for more reliable and efficient Salesforce implementations.</p>
+
+<p>Best regards,<br />
+Serpent Team<strong>&nbsp;|</strong>&nbsp;Tekunda<br />
+<br />
+<img alt="serpent-logo" src="https://tekunda.file.force.com/file-asset-public/serpentlogo?oid=00D7Q000000KcS3" style="max-width: 1427.85px; width: 257px; height: 46px;" title="serpent-logo" /></p>
+</body>
+</html>

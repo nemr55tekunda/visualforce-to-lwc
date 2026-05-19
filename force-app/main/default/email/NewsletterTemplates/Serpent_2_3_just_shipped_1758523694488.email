@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Serpent Newsletter Update</title>
+</head>
+<body style="margin:0; padding:0; background-color:#ffffff; font-family:Montserrat, Helvetica, Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; color:#111827;">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0; padding:0; background-color:#ffffff;">
+    <tbody>
+      <tr>
+        <td align="center" style="padding:16px 12px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="95%" style="max-width:900px; margin:0 auto; border-collapse:collapse; background-color:#ffffff;">
+            <tbody>
+              <tr>
+                <td style="padding:16px 0 0 0; text-align:center;">
+                  <span style="display:inline-block; margin-bottom:24px; padding:4px 16px; border-radius:9999px; background-color:#f3f4f6; border:1px solid #e5e7eb; font-size:14px; line-height:20px; font-weight:600; letter-spacing:0.1em; color:#111827;">
+                    Major Update
+                  </span>
+
+                  <h1 style="margin:0; font-size:48px; line-height:1.1; font-weight:800; color:#111827;">
+                    Serpent 2.3 just shipped
+                  </h1>
+
+                  <p style="margin:16px 0 12px 0; font-size:18px; line-height:28px; color:#111827;">
+                    We simplified, enhanced, and leveled up.
+                  </p>
+
+                  <div style="font-size:14px; line-height:20px; letter-spacing:0.025em; color:#6b7280;">
+                    Released: Sept 2025 &bull; Version 2.3.0
+                  </div>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:32px 0 0 0; text-align:center;">
+                  <p style="margin:0 0 16px 0; font-size:18px; line-height:30px; color:#111827;">
+                    Translation: we squashed a bunch of annoying friction points, and gave you a UI glow-up while we were at it.
+                  </p>
+
+                  <p style="margin:0 0 16px 0; font-size:18px; line-height:30px; color:#111827;">
+                    Now Serpent&rsquo;s not just faster, it&rsquo;s <em>smarter</em>. Less clicking around, more actual shipping.
+                  </p>
+
+                  <p style="margin:0 0 24px 0; font-size:18px; line-height:30px; font-weight:600; color:#111827;">
+                    Let's dive in 🏊&zwj;♂️
+                  </p>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:0 0 16px 0;">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse; border:1px solid #1f8a8f; border-radius:8px; background:linear-gradient(135deg, #1f8a8f, #166a6f);">
+                    <tbody>
+                      <tr>
+                        <td style="padding:24px 24px 12px 24px;">
+                          <h3 style="margin:0; font-size:24px; line-height:32px; font-weight:600; color:#f7f7f7;">
+                            🎨 UI Glow-Up
+                          </h3>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding:0 24px 24px 24px; color:#f7f7f7;">
+                          <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px;">
+                            <li>Login page got a makeover. No more 2010 vibes.</li>
+                            <li>New Task modal? It&rsquo;s now a full page. Because your work deserves more than a pop-up.</li>
+                            <li>Built-in help center + tooltips, so now you can actually find answers without pinging your favourite dev.</li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:0 0 16px 0;">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody>
+                      <tr>
+                        <td width="50%" valign="top" style="padding:0 8px 16px 0;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="height:100%; border-collapse:collapse; border:1px solid #e5e7eb; border-radius:8px; background:linear-gradient(135deg, #ffffff, #f0f8f8);">
+                            <tbody>
+                              <tr>
+                                <td style="padding:24px 24px 12px 24px;">
+                                  <h3 style="margin:0; font-size:28px; line-height:34px; font-weight:600; color:#2f2f4a;">
+                                    📦 Release Management
+                                  </h3>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding:0 24px 24px 24px; color:#2f2f4a;">
+                                  <p style="margin:0 0 12px 0; font-size:18px; line-height:28px;">
+                                    Actually Manageable
+                                  </p>
+
+                                  <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px;">
+                                    <li>Release details page = revamped. You can finally understand what&rsquo;s going on.</li>
+                                    <li>Full build history, rollbacks, versions, all in one place. Less &ldquo;WTF happened?&rdquo; more &ldquo;Ah, that&rsquo;s what happened.&rdquo;</li>
+                                  </ul>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+
+                        <td width="50%" valign="top" style="padding:0 0 16px 8px;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="height:100%; border-collapse:collapse; border:1px solid #e5e7eb; border-radius:8px; background:linear-gradient(135deg, #ffffff, #f0f8f8);">
+                            <tbody>
+                              <tr>
+                                <td style="padding:24px 24px 12px 24px;">
+                                  <h3 style="margin:0; font-size:28px; line-height:34px; font-weight:600; color:#2f2f4a;">
+                                    🔍 Deployment &amp; Logs
+                                  </h3>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding:0 24px 24px 24px; color:#2f2f4a;">
+                                  <p style="margin:0 0 12px 0; font-size:18px; line-height:28px;">
+                                    About Time
+                                  </p>
+
+                                  <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px;">
+                                    <li>Detailed logs so clear you could frame them.</li>
+                                    <li>You can now filter logs on what changed, and where.</li>
+                                    <li>Action cards and statuses now actually show status. Shocking, right.</li>
+                                  </ul>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td width="50%" valign="top" style="padding:0 8px 16px 0;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="height:100%; border-collapse:collapse; border:1px solid #e5e7eb; border-radius:8px; background:linear-gradient(135deg, #ffffff, #f0f8f8);">
+                            <tbody>
+                              <tr>
+                                <td style="padding:24px 24px 12px 24px;">
+                                  <h3 style="margin:0; font-size:28px; line-height:34px; font-weight:600; color:#2f2f4a;">
+                                    🔄 Pull Requests, Without Git PTSD
+                                  </h3>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding:0 24px 24px 24px; color:#2f2f4a;">
+                                  <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px;">
+                                    <li>Flip branches instantly when creating PRs. No more branch yoga.</li>
+                                    <li>Mentions in PR reviews let you tag teammates, drag them in, and share the blame glory.</li>
+                                    <li>Better PR branch selection UI, so you don&rsquo;t have to squint at dropdowns.</li>
+                                  </ul>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+
+                        <td width="50%" valign="top" style="padding:0 0 16px 8px;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="height:100%; border-collapse:collapse; border:1px solid #e5e7eb; border-radius:8px; background:linear-gradient(135deg, #ffffff, #f0f8f8);">
+                            <tbody>
+                              <tr>
+                                <td style="padding:24px 24px 12px 24px;">
+                                  <h3 style="margin:0; font-size:28px; line-height:34px; font-weight:600; color:#2f2f4a;">
+                                    🛡️ Orgs &amp; Auth
+                                  </h3>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding:0 24px 24px 24px; color:#2f2f4a;">
+                                  <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px;">
+                                    <li>DevHub auth has risen from the ashes. Goodbye device login, hello shiny OAuth.</li>
+                                    <li>Incorrect org aliases? Fixed. Your orgs now know who they are.</li>
+                                    <li>Scratch org authentication edge cases fixed. Connect away.</li>
+                                  </ul>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:0 0 16px 0;">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse; border:1px solid #1f8a8f; border-radius:8px; background:linear-gradient(135deg, #1f8a8f, #166a6f);">
+                    <tbody>
+                      <tr>
+                        <td style="padding:24px 24px 12px 24px;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td>
+                                  <h3 style="margin:0; font-size:24px; line-height:32px; font-weight:600; color:#f7f7f7;">
+                                    ⚡ Quality of Life (aka stuff that annoyed us too)
+                                  </h3>
+                                </td>
+                                <td align="right" style="font-size:16px; line-height:24px; color:#f7f7f7;">
+                                  New
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td style="padding:0 24px 24px 24px; color:#f7f7f7;">
+                          <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px;">
+                            <li>Source control links from breadcrumbs. Easy navigation = fewer rage clicks.</li>
+                            <li>Subscription popups? Gone. We heard you.</li>
+                            <li>Pagination bugs with GitHub fixed. Your repos are endless, but your scrolling isn&rsquo;t.</li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:0 0 24px 0;">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse; border-radius:8px; background:linear-gradient(135deg, #1f8a8f, #2ab0b5);">
+                    <tbody>
+                      <tr>
+                        <td align="center" style="padding:32px;">
+                          <h3 style="margin:0 0 16px 0; font-size:30px; line-height:38px; font-weight:700; color:#ffffff;">
+                            TL;DR?
+                          </h3>
+
+                          <p style="margin:0 0 24px 0; font-size:18px; line-height:30px; color:#ffffff;">
+                            Serpent 2.3.0 = smoother UI, killed some popups, smarter releases, clearer logs, and less &ldquo;huh!&rdquo; moments.
+                          </p>
+
+                          <table border="0" cellpadding="0" cellspacing="0" align="center" style="margin:0 auto 24px auto;">
+                            <tbody>
+                              <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius:6px;">
+                                  <a href="https://serpent.tekunda.com" rel="noopener" style="display:inline-block; padding:14px 32px; font-size:16px; line-height:20px; font-weight:600; color:#1f8a8f; text-decoration:none;">
+                                    🎁 Check out what's new
+                                  </a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+
+                          <p style="margin:0; display:inline-block; padding:12px 16px; border-radius:8px; border:1px solid rgba(255,255,255,0.2); background-color:rgba(255,255,255,0.1); font-size:20px; line-height:28px; font-weight:700; color:#ffffff;">
+                            ✨ Let's make your next Salesforce releases actually feel good.
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td align="center" style="padding:24px 0 8px 0; border-top:1px solid #e5e7eb;">
+                  <h4 style="margin:0 0 16px 0; font-size:16px; line-height:24px; font-weight:600; color:#111827;">
+                    Need Help?
+                  </h4>
+
+                  <p style="margin:0 0 24px 0; padding:0 8px; font-size:14px; line-height:24px; color:#111827;">
+                    Our support team is ready to help you with the migration and new features.
+                  </p>
+
+                  <table border="0" cellpadding="0" cellspacing="0" align="center" style="margin:0 auto;">
+                    <tbody>
+                      <tr>
+                        <td style="padding:0 8px 0 8px;">
+                          <a href="https://tekunda.com/serpent#contact" style="display:inline-block; padding:10px 12px; border-radius:6px; background-color:#1f8a8f; color:#ffffff; text-decoration:none; font-size:14px; line-height:20px; font-weight:500;">
+                            Contact Sales
+                          </a>
+                        </td>
+                        <td style="padding:0 8px 0 8px;">
+                          <a href="https://outlook.office.com/book/serpentmeetings@tekunda.com/s/Xfeez_mvmEqNzYIC4kAOIQ2?ismsaljsauthenabled=true" style="display:inline-block; padding:10px 12px; border-radius:6px; border:1px solid #e5e7eb; background-color:#ffffff; color:#111827; text-decoration:none; font-size:14px; line-height:20px; font-weight:500;">
+                            Schedule Demo
+                          </a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>

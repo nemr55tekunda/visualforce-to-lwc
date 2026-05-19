@@ -1,0 +1,19 @@
+<html>
+<head><meta charset="utf-8" />
+	<title></title>
+</head>
+<body style="height: auto; min-height: auto;">
+<p>Hello {{{Recipient.Name}}},</p>
+
+<p>It was a pleasure connecting at Web Summit Lisbon 2025! We really enjoyed our chat and we’re excited about the opportunity to explore how we can collaborate.</p>
+
+<p>Let’s keep the momentum going, book a meeting from <a href="https://outlook.office.com/book/meetings@tekunda.com/s/l7NJcj4lDECFmpejix7kiQ2?ismsaljsauthenabled">here</a>.</p>
+
+<p>Looking forward to connecting soon.</p>
+
+<p>Best regards,<br />
+Tekunda</p>
+
+<p><img alt="Tekunda company logo" height="52" src="https://your-domain.com/logo.png" width="178" /></p>
+</body>
+</html>
