@@ -12,7 +12,7 @@ export function formatApexSObjects(sObjects) {
 }
 
 function formatApexSObject(sObject) {
-    return flatten(sObject, '');
+    return flatten(sObjects, '');
 }
 
 function flatten(source, prefix) {
