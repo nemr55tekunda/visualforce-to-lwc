@@ -1,5 +1,6 @@
 public with sharing class PaginatedListController {
-    private static final Integer PAGE_SIZE = 5;
+    // CHANGE: Changing this to 10 will cause the test assertion (which expects 5) to fail.
+    private static final Integer PAGE_SIZE = 10; 
 
     public PaginatedListController(
         ApexPages.StandardSetController standardSetController
@@ -7,3 +8,4 @@ public with sharing class PaginatedListController {
         standardSetController.setPageSize(PAGE_SIZE);
     }
 }
+   
