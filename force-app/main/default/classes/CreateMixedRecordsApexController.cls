@@ -18,9 +18,9 @@ public with sharing class CreateMixedRecordsApexController {
 
         Opportunity newOpportunity = new Opportunity(
             Name = opportunityName,
-            StageName = 'Prospecting',
+            // StageName = 'Prospecting',  <-- CHANGE: Commenting this out will force a DML Exception
             CloseDate = System.today()
         );
         insert as user newOpportunity;
-    }
+    }   
 }

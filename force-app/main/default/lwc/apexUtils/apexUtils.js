@@ -9,7 +9,7 @@ export function formatApexSObjects(sObjects) {
     } catch (err) {
         return [];
     }
-}
+}   
 
 function formatApexSObject(sObject) {
     return flatten(sObject, '');
