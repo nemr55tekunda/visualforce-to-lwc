@@ -291,7 +291,6 @@
                 </rightValue>
             </conditions>
             <connector>
-                <isGoTo>true</isGoTo>
                 <targetReference>Get_New_Case_Received_Email_Template</targetReference>
             </connector>
             <label>New Case (Contact Updated)</label>
@@ -307,7 +306,6 @@
                 </rightValue>
             </conditions>
             <connector>
-                <isGoTo>true</isGoTo>
                 <targetReference>Get_Open_Case_Email_Template</targetReference>
             </connector>
             <label>Open Case (Contact Updated)</label>
@@ -323,7 +321,6 @@
                 </rightValue>
             </conditions>
             <connector>
-                <isGoTo>true</isGoTo>
                 <targetReference>Get_Solved_Case_Email_Template</targetReference>
             </connector>
             <label>Solved Case (Contact Updated)</label>
@@ -339,7 +336,6 @@
                 </rightValue>
             </conditions>
             <connector>
-                <isGoTo>true</isGoTo>
                 <targetReference>check_previous_status</targetReference>
             </connector>
             <label>Closed Case (Contact Updated)</label>
@@ -565,5 +561,5 @@
         <recordTriggerType>CreateAndUpdate</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
     </start>
-    <status>Obsolete</status>
+    <status>Draft</status>
 </Flow>
