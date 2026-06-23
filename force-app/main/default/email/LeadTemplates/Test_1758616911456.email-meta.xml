@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Lead - Serpent Sales Email (Booking Demo)</name>
+    <relatedEntityType>Lead</relatedEntityType>
+    <style>none</style>
+    <subject>Experience Serpent for Free Today - The all‑in‑one Salesforce DevOps</subject>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

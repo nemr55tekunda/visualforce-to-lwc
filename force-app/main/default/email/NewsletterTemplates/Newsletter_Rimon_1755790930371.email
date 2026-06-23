@@ -1,0 +1,144 @@
+<html>
+<head>
+	<title>Serpent Newsletter Update</title>
+</head>
+<body style="height: auto; min-height: auto;">
+<table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0;" width="100%">
+	
+		<tr>
+			<td align="center">
+			<table border="0" cellpadding="0" cellspacing="0" style="max-width:800px; margin:0 auto;" width="100%">
+				
+					<tr>
+						<td style="padding:32px 24px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:1.6; color:#111111;">
+						<p style="margin:0 0 16px 0;"><span style="display:inline-block; padding:6px 12px; font-size:12px; font-weight:bold; letter-spacing:1px; color:#ffffff; background:#1d9aa5;">Major Update </span></p>
+
+						<h1 style="margin:0 0 16px 0; font-size:36px; line-height:1.2;">Serpent 2.0 is here</h1>
+
+						<p style="margin:0 0 12px 0; font-size:22px;">We rewrote the rules and a bunch of code</p>
+
+						<p style="margin:0 0 32px 0; font-size:14px; color:#666666;">Released: August 2025 | Version 2.0.0</p>
+
+						<p style="margin:0 0 16px 0;">We have just shipped the biggest update to Serpent ever, and it is a game-changer.</p>
+
+						<p style="margin:0 0 16px 0;">Seriously. We tore it down. Rebuilt it. Sanded the edges. Polished the snake.</p>
+
+						<p style="margin:0 0 16px 0;">Now it is faster, smarter, and smoother for your Salesforce DevOps workflow.</p>
+
+						<p style="margin:0 0 32px 0; font-weight:bold;">Here is what is new:</p>
+
+						<table border="0" cellpadding="0" cellspacing="0" style="margin:0 0 24px 0; border:1px solid #d9d9d9;" width="100%">
+							
+								<tr>
+									<td style="padding:20px; background:#1d9aa5; color:#ffffff;">
+									<h3 style="margin:0 0 12px 0; font-size:24px;">Onboarding That Gets You</h3>
+
+									<p style="margin:0 0 12px 0;">"5-minute setup" is not just marketing fluff.</p>
+
+									<ul style="margin:0; padding-left:20px;">
+										<li>Works with scratch orgs, packaging, or something in between</li>
+										<li>You will be up and running before your coffee cools down</li>
+										<li>Guided setup included</li>
+										<li>No setup-induced migraines</li>
+									</ul>
+									</td>
+								</tr>
+							
+						</table>
+
+						<table border="0" cellpadding="0" cellspacing="0" style="margin:0 0 24px 0; border:1px solid #d9d9d9;" width="100%">
+							
+								<tr>
+									<td style="padding:20px;">
+									<h3 style="margin:0 0 12px 0; font-size:24px;">A Cleaner, Meaner UI</h3>
+
+									<p style="margin:0 0 12px 0;">We removed the clutter.</p>
+
+									<ul style="margin:0; padding-left:20px;">
+										<li>No more 6 tabs doing the same thing</li>
+										<li>No mystery buttons with scary consequences</li>
+										<li>Clean stages, clear steps</li>
+										<li>A UI that actually helps you ship</li>
+									</ul>
+									</td>
+								</tr>
+							
+						</table>
+
+						<table border="0" cellpadding="0" cellspacing="0" style="margin:0 0 24px 0; border:1px solid #d9d9d9;" width="100%">
+							
+								<tr>
+									<td style="padding:20px;">
+									<h3 style="margin:0 0 12px 0; font-size:24px;">No Git Setup Needed</h3>
+
+									<p style="margin:0 0 12px 0;">Take that, terminal window.</p>
+
+									<ul style="margin:0; padding-left:20px;">
+										<li>No more wrestling with branches or commit commands</li>
+										<li>You still get the power of Git</li>
+										<li>No praying to the .gitignore gods</li>
+										<li>Deploy, rollback, track with less friction</li>
+									</ul>
+									</td>
+								</tr>
+							
+						</table>
+
+						<table border="0" cellpadding="0" cellspacing="0" style="margin:0 0 24px 0; border:1px solid #d9d9d9;" width="100%">
+							
+								<tr>
+									<td style="padding:20px;">
+									<h3 style="margin:0 0 12px 0; font-size:24px;">Team-Ready</h3>
+
+									<p style="margin:0 0 12px 0;">Built for real collaboration.</p>
+
+									<ul style="margin:0; padding-left:20px;">
+										<li>Keep everyone in the loop</li>
+										<li>Share orgs, track progress, assign tasks</li>
+										<li>Less confusion around sandboxes and handoffs</li>
+										<li>Made for team workflows</li>
+									</ul>
+									</td>
+								</tr>
+							
+						</table>
+
+						<table border="0" cellpadding="0" cellspacing="0" style="margin:0 0 32px 0; border:1px solid #d9d9d9;" width="100%">
+							
+								<tr>
+									<td style="padding:20px;">
+									<h3 style="margin:0 0 12px 0; font-size:24px;">Supports Org Dev, 1GP, 2GP</h3>
+
+									<p style="margin:0 0 12px 0;">Because you should not have to pick a side.</p>
+
+									<ul style="margin:0; padding-left:20px;">
+										<li>Use any model in one workspace</li>
+										<li>Works with packages or direct-to-prod deployment</li>
+										<li>No config sorcery required</li>
+										<li>Pick what fits and go</li>
+									</ul>
+									</td>
+								</tr>
+							
+						</table>
+
+						<hr style="border:none; border-top:1px solid #dddddd; margin:32px 0;" />
+						<h4 style="margin:0 0 12px 0; font-size:18px;">Need Help?</h4>
+
+						<p style="margin:0 0 20px 0;">Our support team is ready to help you with the migration and new features.</p>
+
+						<p style="margin:0 0 24px 0;"><a href="https://tekunda.com/serpent#contact" style="display:inline-block; padding:10px 16px; background:#1d9aa5; color:#ffffff; text-decoration:none; margin-right:8px;">Contact Sales</a> <a href="https://outlook.office.com/book/serpentmeetings@tekunda.com/s/Xfeez_mvmEqNzYIC4kAOIQ2?ismsaljsauthenabled=true" style="display:inline-block; padding:10px 16px; border:1px solid #cccccc; color:#111111; text-decoration:none;">Schedule Demo</a></p>
+
+						<p style="margin:0 0 8px 0; font-size:14px; color:#666666;">Serpent Team | Release Newsletter | August 2025</p>
+
+						<p style="margin:0; font-size:14px; color:#666666;">You are receiving this because you registered to Serpent.</p>
+						</td>
+					</tr>
+				
+			</table>
+			</td>
+		</tr>
+	
+</table>
+</body>
+</html>
