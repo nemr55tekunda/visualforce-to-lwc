@@ -95,7 +95,7 @@ static void testUpdateAccountWithoutChangingSupportType() {
     // Trigger creates a duplicate on update (known behavior) — just verify no errors thrown
     List<Entitlement> entitlements = [SELECT Id FROM Entitlement WHERE AccountId = :acc.Id];
     System.assert(entitlements.size() >= 1, 'At least 1 entitlement should exist');
-		}
+        }
 
     @isTest
 static void testUpdateAccountCasesRelinked() {
@@ -117,5 +117,5 @@ static void testUpdateAccountCasesRelinked() {
     List<Entitlement> after = [SELECT Id, Name FROM Entitlement WHERE AccountId = :acc.Id];
     System.assertEquals(1, after.size(), 'Should have 1 entitlement after switch');
     System.assertEquals('Premium Support', after[0].Name, 'New entitlement should be Premium');
-	}
+    }
 }
