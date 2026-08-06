@@ -1,0 +1,207 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Serpent 2.5 Newsletter</title>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0; padding:0; background-color:#ffffff;">
+  
+    <tr>
+      <td align="center">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:800px; margin:0 auto; background-color:#ffffff;">
+          
+            <tr>
+              <td style="padding:32px 24px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:1.6; color:#111111;">
+
+                <p style="margin:0 0 16px 0; text-align:center;">
+                  <span style="display:inline-block; padding:6px 12px; font-size:12px; font-weight:bold; letter-spacing:1px; color:#ffffff; background-color:#1d9aa5;">
+                    Major Update
+                  </span>
+                </p>
+
+                <h1 style="margin:0 0 16px 0; text-align:center; font-size:36px; line-height:1.2;">
+                  October in Motion
+                </h1>
+
+                <p style="margin:0 0 12px 0; text-align:center; font-size:22px;">
+                  Dreamforce, SF security changes, and Serpent 2.5 updates you should not miss
+                </p>
+
+                <p style="margin:0 0 32px 0; text-align:center; font-size:14px; color:#666666;">
+                  Released: October 2025 | Version 2.5.0
+                </p>
+
+                <p style="margin:0 0 16px 0; text-align:center; font-size:20px; font-weight:bold;">
+                  Big news this month: we are hitting the road, sharing critical security updates, and shipping a major Serpent release.
+                </p>
+
+                <p style="margin:0 0 24px 0; text-align:center;">
+                  From Dreamforce to new platform changes, here is everything you need to know.
+                </p>
+
+                <h2 style="margin:0 0 16px 0; font-size:26px;">Salesforce Updates and News</h2>
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 0 24px 0; border:1px solid #d9d9d9; background-color:#ffffff;">
+                  
+                    <tr>
+                      <td style="padding:20px;">
+                        <h3 style="margin:0 0 12px 0; font-size:24px;">Key Changes to Connected App Security</h3>
+                        <p style="margin:0 0 12px 0;">
+                          Salesforce introduced critical changes that could impact your org if not addressed by admins.
+                        </p>
+                        <p style="margin:0 0 12px 0;">
+                          We have detailed what changed and how to stay ahead:
+                          <a href="https://tekunda.com/blog/Major-Changes-to-Salesforce-Connected-App-Security%2C-Is-Your-Org-Ready%3F">Read the full breakdown</a>
+                        </p>
+                        <ul style="margin:0; padding-left:20px;">
+                          <li>Blocked access to uninstalled Connected Apps</li>
+                          <li>Removed OAuth 2.0 Device Flow from Data Loader</li>
+                          <li>New permission: Approve Uninstalled Connected Apps</li>
+                        </ul>
+                      </td>
+                    </tr>
+                  
+                </table>
+
+                <h2 style="margin:0 0 16px 0; font-size:26px;">Where We Will Be</h2>
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 0 24px 0; border:1px solid #d9d9d9; background-color:#ffffff;">
+                  
+                    <tr>
+                      <td style="padding:20px;">
+                        <h3 style="margin:0 0 12px 0; font-size:24px;">Dreamforce 2025</h3>
+                        <p style="margin:0 0 12px 0;">
+                          This week, we are heading to Dreamforce 2025.
+                        </p>
+                        <ul style="margin:0; padding-left:20px;">
+                          <li>October 14-16 in San Francisco</li>
+                          <li><a href="https://tekunda.com/serpent#contact">Let us connect</a>, share ideas, and maybe grab a coffee</li>
+                          <li>See you at Dreamforce</li>
+                        </ul>
+                      </td>
+                    </tr>
+                  
+                </table>
+
+                <h2 style="margin:0 0 16px 0; font-size:26px;">What Is New in Serpent 2.5</h2>
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 0 20px 0; border:1px solid #d9d9d9; background-color:#ffffff;">
+                  
+                    <tr>
+                      <td style="padding:20px;">
+                        <h3 style="margin:0 0 12px 0; font-size:22px;">Dark Mode Is Here</h3>
+                        <p style="margin:0 0 12px 0;">Designed for comfort, styled for clarity.</p>
+                        <ul style="margin:0; padding-left:20px;">
+                          <li>Dark Mode is now available across the platform</li>
+                          <li>Follows your system settings, or set it permanently</li>
+                          <li>Every page, chart, and detail is refined for dark mode</li>
+                        </ul>
+                      </td>
+                    </tr>
+                  
+                </table>
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 0 20px 0; border:1px solid #d9d9d9; background-color:#ffffff;">
+                  
+                    <tr>
+                      <td style="padding:20px;">
+                        <h3 style="margin:0 0 12px 0; font-size:22px;">Enterprise Permissions, Made Easy</h3>
+                        <p style="margin:0 0 12px 0;">Secure, scalable, and built for real teams.</p>
+                        <ul style="margin:0; padding-left:20px;">
+                          <li>Assign full or project-specific access as needed</li>
+                          <li>Visibility into roles and access, always up to date</li>
+                          <li>Built for enterprises needing more flexibility and control</li>
+                        </ul>
+                      </td>
+                    </tr>
+                  
+                </table>
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 0 20px 0; border:1px solid #d9d9d9; background-color:#ffffff;">
+                  
+                    <tr>
+                      <td style="padding:20px;">
+                        <h3 style="margin:0 0 12px 0; font-size:22px;">Insights That Move With You</h3>
+                        <p style="margin:0 0 12px 0;">Your work, visualised in real time.</p>
+                        <ul style="margin:0; padding-left:20px;">
+                          <li>The new Analytics Dashboard surfaces deployment activity and success rates</li>
+                          <li>Monitor tasks and release flows across all projects</li>
+                          <li>Spot trends and guide decisions with data</li>
+                        </ul>
+                      </td>
+                    </tr>
+                  
+                </table>
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 0 32px 0; border:1px solid #d9d9d9; background-color:#ffffff;">
+                  
+                    <tr>
+                      <td style="padding:20px;">
+                        <h3 style="margin:0 0 12px 0; font-size:22px;">Smarter Logs and Release Details</h3>
+                        <p style="margin:0 0 12px 0;">See issues and solve them faster.</p>
+                        <ul style="margin:0; padding-left:20px;">
+                          <li>Action logs and release history now show clear, contextual error messages</li>
+                          <li>Redesigned layouts help you debug faster with less effort</li>
+                          <li>Instant clarity on what happened</li>
+                        </ul>
+                      </td>
+                    </tr>
+                  
+                </table>
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 0 32px 0; background-color:#1d9aa5;">
+                  
+                    <tr>
+                      <td style="padding:24px; text-align:center; color:#ffffff;">
+                        <p style="margin:0 0 12px 0; font-size:20px; font-weight:bold;">
+                          TL;DR? Here is what is happening this month:
+                        </p>
+                        <p style="margin:0 0 12px 0;">
+                          Major changes to Salesforce Connected App Security
+                        </p>
+                        <p style="margin:0 0 12px 0;">
+                          We are at Dreamforce 2025, October 14-16 in San Francisco
+                        </p>
+                        <p style="margin:0 0 12px 0;">
+                          Serpent 2.5 is live with Dark Mode, refined navigation, enterprise permissions, and actionable analytics
+                        </p>
+                        <p style="margin:0 0 20px 0;">
+                          All designed to keep you moving securely, clearly, and at scale.
+                        </p>
+                        <p style="margin:0;">
+                          <a href="https://serpent.tekunda.com" style="display:inline-block; padding:10px 18px; background-color:#ffffff; color:#1d9aa5; text-decoration:none; font-weight:bold;">
+                            Check out what is new
+                          </a>
+                        </p>
+                      </td>
+                    </tr>
+                  
+                </table>
+
+                <hr style="border:none; border-top:1px solid #dddddd; margin:32px 0;" />
+
+                <h4 style="margin:0 0 12px 0; font-size:18px; text-align:center;">Need Help?</h4>
+
+                <p style="margin:0 0 20px 0; text-align:center;">
+                  Our support team is ready to help you with the migration and new features.
+                </p>
+
+                <p style="margin:0 0 24px 0; text-align:center;">
+                  <a href="https://tekunda.com/serpent#contact" style="display:inline-block; padding:10px 16px; background:#1d9aa5; color:#ffffff; text-decoration:none; margin-right:8px;">Contact Sales</a>
+                  <a href="https://outlook.office.com/book/serpentmeetings@tekunda.com/s/Xfeez_mvmEqNzYIC4kAOIQ2?ismsaljsauthenabled=true" style="display:inline-block; padding:10px 16px; border:1px solid #cccccc; color:#111111; text-decoration:none;">Schedule Demo</a>
+                </p>
+
+                <p style="margin:0; text-align:center; font-size:14px; color:#666666;">
+                  Serpent Team | Release Newsletter | October 2025
+                </p>
+
+              </td>
+            </tr>
+          
+        </table>
+      </td>
+    </tr>
+  
+</table>
+</body>
+</html>

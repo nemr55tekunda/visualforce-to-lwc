@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body style="height: auto; min-height: auto;">Dear&nbsp;{{{Recipient.Name}}},<br />
+<br />
+First of all congratulations on your wedding!<br />
+<br />
+We're honoured that you chose to be part of your big day!<br />
+<br />
+With MyKnotBook, we start by scheduling an onboarding video call where someone from our team sets up your website for you, walks you through it and explain all the details or answer any questions you might have.<br />
+<br />
+Once we've finalised your onboarding, you get your own MyKnotBook domain, username and password to access the admin page immediately, so you can start customising your page to your liking.<br />
+<br />
+Of course from the moment you get your website until after the wedding we are always available to answer any more questions or requests you might have.<br />
+<br />
+Finally, after you have received access to your website, we can arrange the payment.<br />
+<br />
+Best Regards,<br />
+&nbsp;
+<table>
+	
+		<tr>
+			<td height="108" width="108"><a href="https://myknotbook.com/"><img alt="Rimon Hanna" height="108" src="https://rimonhanna.com/content/images/avatar.png" style="max-width: 637.457px;" width="108" /></a>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</td>
+			<td width="10">&nbsp;</td>
+			<td><b>Rimon Hanna</b>&nbsp;<br />
+			CEO - Founder&nbsp;<br />
+			<br />
+			<a href="tel:+31638886128">+31 (0) 6 38886128</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br />
+			<br />
+			<a href="https://myknotbook.com/">MyKnotBook.com</a>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="3">&nbsp; &nbsp; &nbsp;&nbsp;<img alt="logo-offwhite" src="" style="max-width: 637.457px; width: 230px; height: 62px;" title="logo-offwhite" /></td>
+		</tr>
+	
+</table>
+</body>
+</html>

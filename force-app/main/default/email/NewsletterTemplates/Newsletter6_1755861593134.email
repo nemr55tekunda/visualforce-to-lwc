@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Serpent Newsletter Update</title>
+</head>
+<body style="margin:0; padding:0; background-color:#f5f7fa; font-family:Arial, Helvetica, sans-serif; color:#1f2937;">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0; padding:0; background-color:#f5f7fa;">
+    <tbody>
+      <tr>
+        <td align="center" style="padding:24px 12px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:800px; margin:0 auto; background-color:#ffffff; border-collapse:collapse;">
+            <tbody>
+              <tr>
+                <td align="center" style="padding:48px 32px; background:linear-gradient(135deg, #1f8a8f, #2db2b7); color:#ffffff;">
+                  <div style="display:inline-block; margin-bottom:24px; padding:8px 16px; border:1px solid rgba(255,255,255,0.35); border-radius:999px; background-color:rgba(255,255,255,0.15); font-size:13px; font-weight:700; letter-spacing:1px; text-transform:uppercase;">
+                    Major Update
+                  </div>
+
+                  <h1 style="margin:0 0 16px 0; font-size:42px; line-height:48px; font-weight:800; color:#ffffff;">
+                    Serpent 2.2 is here
+                  </h1>
+
+                  <p style="margin:0 0 18px 0; font-size:22px; line-height:32px; color:#ecfeff;">
+                    We rewrote the rules (and a bunch of code)
+                  </p>
+
+                  <p style="margin:0; font-size:14px; line-height:22px; color:#d7fbfd;">
+                    Released: August 2025 &bull; Version 2.2.0
+                  </p>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:40px 32px 24px 32px; text-align:center;">
+                  <p style="margin:0 0 16px 0; font-size:20px; line-height:32px; color:#374151;">
+                    We've just shipped the biggest update to Serpent ever, and it's a game-changer.
+                  </p>
+
+                  <p style="margin:0 0 16px 0; font-size:20px; line-height:32px; color:#374151;">
+                    Seriously. We tore it down. Rebuilt it. Sanded the edges. Polished the snake.
+                  </p>
+
+                  <p style="margin:0 0 16px 0; font-size:20px; line-height:32px; color:#374151;">
+                    Now it's faster, smarter, and smoother, like DevOps butter 🧈 on your Salesforce toast.
+                  </p>
+
+                  <p style="margin:0; font-size:24px; line-height:34px; font-weight:700; color:#111827;">
+                    Let's dive in 🏊&zwj;♂️
+                  </p>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:16px 32px 12px 32px;">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse; background:linear-gradient(135deg, #1f8a8f, #16656a); border:1px solid #1f8a8f; border-radius:10px;">
+                    <tbody>
+                      <tr>
+                        <td style="padding:28px 28px 12px 28px; color:#ffffff;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td style="font-size:28px; line-height:34px; font-weight:700; color:#ffffff;">
+                                  Onboarding That Gets You
+                                </td>
+                                <td align="right" style="font-size:14px; line-height:20px; font-weight:700; color:#ffffff;">
+                                  New
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td style="padding:0 28px 28px 28px; color:#eefcfd;">
+                          <p style="margin:0 0 16px 0; font-size:18px; line-height:28px; color:#eefcfd;">
+                            "5-minute setup" isn't just marketing fluff
+                          </p>
+
+                          <ul style="margin:0; padding-left:20px; color:#dff7f8; font-size:16px; line-height:28px;">
+                            <li>Works with scratch orgs, packaging, or something in between</li>
+                            <li>You'll be up and running before your coffee cools down</li>
+                            <li>DevOps sherpa guidance included</li>
+                            <li>No setup-induced migraines</li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:12px 32px 12px 32px;">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:separate; border-spacing:0 20px;">
+                    <tbody>
+                      <tr>
+                        <td style="background:#f8fafc; border:1px solid #e5e7eb; border-radius:10px; padding:28px;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td style="font-size:30px; line-height:36px; font-weight:700; color:#111827; padding-bottom:16px;">
+                                  A Cleaner, Meaner UI
+                                </td>
+                                <td align="right" style="font-size:14px; line-height:20px; font-weight:700; color:#4b5563; padding-bottom:16px;">
+                                  Design
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+
+                          <p style="margin:0 0 16px 0; font-size:18px; line-height:28px; color:#374151;">
+                            We removed the BS. You're welcome.
+                          </p>
+
+                          <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px; color:#374151;">
+                            <li>No more 6 tabs doing the same thing</li>
+                            <li>No mystery buttons with scary consequences</li>
+                            <li>Clean stages, clear steps</li>
+                            <li>A UI that actually helps you ship</li>
+                          </ul>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td style="background:#f8fafc; border:1px solid #e5e7eb; border-radius:10px; padding:28px;">
+                          <p style="margin:0 0 16px 0; font-size:30px; line-height:36px; font-weight:700; color:#111827;">
+                            No Git Setup Needed
+                          </p>
+
+                          <p style="margin:0 0 16px 0; font-size:18px; line-height:28px; color:#374151;">
+                            Take that, terminal window.
+                          </p>
+
+                          <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px; color:#374151;">
+                            <li>No more wrestling with branches or commit commands</li>
+                            <li>You still get the power of Git</li>
+                            <li>No praying to the .gitignore gods</li>
+                            <li>Deploy, rollback, track, no black belt required</li>
+                          </ul>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td style="background:#f8fafc; border:1px solid #e5e7eb; border-radius:10px; padding:28px;">
+                          <p style="margin:0 0 16px 0; font-size:30px; line-height:36px; font-weight:700; color:#111827;">
+                            Team-Ready (For Real)
+                          </p>
+
+                          <p style="margin:0 0 16px 0; font-size:18px; line-height:28px; color:#374151;">
+                            Add your devs, your testers, your PM, your cat. It's fine.
+                          </p>
+
+                          <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px; color:#374151;">
+                            <li>Everyone can stay in the loop</li>
+                            <li>Share orgs, track progress, assign tasks</li>
+                            <li>No more Slack threads called "Where's the latest sandbox?"</li>
+                            <li>Built for real team collaboration</li>
+                          </ul>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td style="background:#f8fafc; border:1px solid #e5e7eb; border-radius:10px; padding:28px;">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td style="font-size:30px; line-height:36px; font-weight:700; color:#111827; padding-bottom:16px;">
+                                  Supports Org Dev, 1GP, 2GP
+                                </td>
+                                <td align="right" style="font-size:14px; line-height:20px; font-weight:700; color:#4b5563; padding-bottom:16px;">
+                                  Universal
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+
+                          <p style="margin:0 0 16px 0; font-size:18px; line-height:28px; color:#374151;">
+                            Because you shouldn't have to pick a side.
+                          </p>
+
+                          <ul style="margin:0; padding-left:20px; font-size:16px; line-height:28px; color:#374151;">
+                            <li>Use any model, all in one workspace</li>
+                            <li>Works with packages or direct to prod deployment</li>
+                            <li>No config sorcery required</li>
+                            <li>Just pick what fits, and go</li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:12px 32px 32px 32px;">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse; background:linear-gradient(135deg, #1f8a8f, #2db2b7); border-radius:10px;">
+                    <tbody>
+                      <tr>
+                        <td align="center" style="padding:36px 28px; color:#ffffff;">
+                          <h3 style="margin:0 0 16px 0; font-size:30px; line-height:36px; font-weight:700; color:#ffffff;">
+                            TL;DR?
+                          </h3>
+
+                          <p style="margin:0 0 14px 0; font-size:20px; line-height:32px; color:#ecfeff;">
+                            If you signed up, poked around, and thought: "Cool idea, not quite there yet"
+                          </p>
+
+                          <p style="margin:0 0 14px 0; font-size:24px; line-height:34px; font-weight:700; color:#ffffff;">
+                            Now is the time to come back.
+                          </p>
+
+                          <p style="margin:0 0 14px 0; font-size:20px; line-height:32px; color:#ecfeff;">
+                            We built this update for you. For teams stuck between change sets and CLI wizardry.
+                          </p>
+
+                          <p style="margin:0 0 24px 0; font-size:20px; line-height:32px; color:#ecfeff;">
+                            For every Salesforce dev who's ever yelled, "WHY did it fail this time?!"
+                          </p>
+
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto 24px auto;">
+                            <tbody>
+                              <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius:6px;">
+                                  <a href="https://serpent.tekunda.com" style="display:inline-block; padding:14px 26px; font-size:16px; line-height:20px; font-weight:700; color:#1f8a8f; text-decoration:none;">
+                                    🎁 Check out what's new
+                                  </a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+
+                          <p style="margin:0; padding:16px 18px; font-size:22px; line-height:32px; font-weight:700; color:#ffffff; background-color:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); border-radius:8px;">
+                            ✨ Let's make your next Salesforce releases actually feel good.
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:32px; border-top:1px solid #e5e7eb; text-align:center; background-color:#ffffff;">
+                  <h4 style="margin:0 0 16px 0; font-size:18px; line-height:28px; font-weight:700; color:#111827;">
+                    Need Help?
+                  </h4>
+
+                  <p style="margin:0 0 24px 0; font-size:16px; line-height:28px; color:#374151;">
+                    Our support team is ready to help you with the migration and new features.
+                  </p>
+
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto 24px auto;">
+                    <tbody>
+                      <tr>
+                        <td align="center" style="padding:0 6px 12px 6px;">
+                          <a href="https://tekunda.com/serpent#contact" style="display:inline-block; padding:12px 18px; background-color:#1f8a8f; color:#ffffff; text-decoration:none; border-radius:6px; font-size:14px; font-weight:700;">
+                            Contact Sales
+                          </a>
+                        </td>
+                        <td align="center" style="padding:0 6px 12px 6px;">
+                          <a href="https://outlook.office.com/book/serpentmeetings@tekunda.com/s/Xfeez_mvmEqNzYIC4kAOIQ2?ismsaljsauthenabled=true" style="display:inline-block; padding:12px 18px; background-color:#ffffff; color:#111827; text-decoration:none; border:1px solid #d1d5db; border-radius:6px; font-size:14px; font-weight:700;">
+                            Schedule Demo
+                          </a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <div style="height:1px; line-height:1px; font-size:1px; background-color:#e5e7eb; margin:24px 0;">&nbsp;</div>
+
+                  <p style="margin:0 0 8px 0; font-size:14px; line-height:22px; color:#6b7280;">
+                    Serpent Team &bull; Release Newsletter &bull; August 2025
+                  </p>
+
+                  <p style="margin:0; font-size:14px; line-height:22px; color:#6b7280;">
+                    You're receiving this because you registered to Serpent.
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>

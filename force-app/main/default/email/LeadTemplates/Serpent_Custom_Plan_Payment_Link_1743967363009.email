@@ -1,0 +1,51 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+</head>
+<body>
+
+<p>Hello {{{Recipient.Name}}},</p>
+
+<p>Welcome on board! We’re thrilled to have you join Serpent.</p>
+
+<p>To activate your plan, just follow these quick steps:</p>
+
+<ol>
+  <li>
+    <p><strong>Create Your Account</strong></p>
+    <p>Sign up using this [link] - be sure to use your work email: {{{Recipient.Email}}}</p>
+  </li>
+  <li>
+    <p><strong>Complete Your Payment</strong></p>
+    <p>Use the same email to complete your custom plan payment [here].</p>
+  </li>
+</ol>
+
+<p><strong>Your Plan Includes:</strong></p>
+
+<ul>
+  <li><strong>X minutes/month</strong> of automation</li>
+  <li><strong>$X/month</strong> - pricing tailored to your needs</li>
+  <li>Includes access to:
+    <ul>
+      <li>Automated Deployments.</li>
+      <li>Real-Time Monitoring.</li>
+      <li>Unlimited Projects.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Want a smooth onboarding? You can book a <strong>free walkthrough session</strong> <a href="https://outlook.office365.com/book/serpentmeetings@tekunda.com/">here</a> to get the most out of Serpent from day one.</p>
+
+<p>If you have any questions at all, just reply to this email - we’re here for you.</p>
+
+<p>
+Best regards,<br />
+Serpent Team <strong>|</strong> Tekunda<br />
+<br />
+<img alt="serpent-logo" src="https://tekunda.file.force.com/file-asset-public/serpentlogo?oid=00D7Q000000KcS3" width="179" height="32" title="serpent-logo" />
+</p>
+
+</body>
+</html>

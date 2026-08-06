@@ -8,9 +8,8 @@
         <dismissButtonLabel>Close</dismissButtonLabel>
         <displayPosition>BottomLeft</displayPosition>
         <displayType>FloatingPanel</displayType>
-        <isPublished>true</isPublished>
+        <isPublished>false</isPublished>
         <masterLabel>Property Finder Step 1</masterLabel>
-        <publishedDate>2026-01-22</publishedDate>
         <shouldDisplayActionButton>false</shouldDisplayActionButton>
         <shouldIgnoreGlobalDelay>true</shouldIgnoreGlobalDelay>
         <startDate>2020-06-29</startDate>
